@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/db-migrations/v-1.0/clients/01-create-clients-table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db-migrations/v-1.0/positions/01-create-positions-table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db-migrations/v-1.0/product-ratings/01-create-product-ratings-table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db-migrations/v-1.0/products/01-create-products-table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db-migrations/v-1.0/sales/01-create-sales-table.sql" dialect="PostgreSQL" />
+  </component>
+</project>
